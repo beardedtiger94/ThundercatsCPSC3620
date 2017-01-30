@@ -1,2 +1,14 @@
-# ThundercatsCPSC3620
-This is for the disrabuted and clustered computing course
+
+
+
+Welcome to Thundercats you wonderfull people. This is going to be a wild ride. 
+
+Team members--
+
+Allan Austin 
+Matthew Beazley 
+Elizabeth Stauder
+Li ? 
+
+
+Infrastucture choice---   
