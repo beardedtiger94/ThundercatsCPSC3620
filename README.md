@@ -11,4 +11,14 @@ Elizabeth Stauder
 Li Zeng
 
 
-Infrastucture choice---   
+Infrastucture choices---   
+1.
+
+
+2.
+
+
+3.
+
+
+4.
