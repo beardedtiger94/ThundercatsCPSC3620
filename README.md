@@ -1,7 +1,7 @@
 
 
 
-Welcome to Thundercats you wonderfull people. This is going to be a wild ride. 
+Welcome to Thundercats you wonderful people. This is going to be a wild ride. 
 
 Team members--
 
