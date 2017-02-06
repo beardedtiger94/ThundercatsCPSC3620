@@ -23,10 +23,15 @@ For each infrastructure listed, the following information must be included:
 Infrastucture choices---   
 
 1.  Infrastructure name: Jetstream
+
     URL to infrastructure website: https://portal.tacc.utexas.edu/user-guides/jetstream 
+    
     Name of operating system: CentOS
+    
     Name of scheduler: 
+    
     Name of the distributed/parallel file systems: Ext3, Ext4, or XFS; Ceph for VM block storage (parallel file system)
+
 
 2.
 
