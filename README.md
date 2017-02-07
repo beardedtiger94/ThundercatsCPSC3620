@@ -33,8 +33,15 @@ Infrastucture choices---
     Name of the distributed/parallel file systems: Ext3, Ext4, or XFS; Ceph for VM block storage (parallel file system)
 
 
-2.
+2.Infrastructure name: Xstream 
 
+    URL to infrastructure website: https://portal.xsede.org/stanford-xstream    
+    
+    Name of operating system: Linux 
+    
+    Name of scheduler:  Stanford Research Computing Center 
+    
+    Name of the distributed/parallel file systems: Lustre  (parallel file system)
 
 3.
 
